@@ -1,0 +1,1 @@
+# Conversor minimalista de Binário para Decimal

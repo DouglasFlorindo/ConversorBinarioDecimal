@@ -11,6 +11,7 @@
     --meioClaro: rgba(255, 255, 255, 0.5);
 }
 
+
 body {
     background: var(--escuro);
     height: 100dvh;

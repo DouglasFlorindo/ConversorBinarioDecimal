@@ -23,7 +23,7 @@ if (navigator.language === 'pt-BR') {
     titulo.innerHTML = conteudoPtBr[0] + ' <span>&gt;</span><span style="animation-delay: 1s;">&gt;</span><span style="animation-delay: 2s;">&gt;</span> ' + conteudoPtBr[1];
     titulo.ariaLabel = conteudoPtBr[5];
     document.getElementById('labelBinario').innerHTML = conteudoPtBr[2];
-    document.getElementById('labelDecimal').innerHTML = conteudoPtBr[2];
+    document.getElementById('labelDecimal').innerHTML = conteudoPtBr[3];
     document.getElementById('mensagemErro').innerHTML = conteudoPtBr[4];
     document.getElementById('botaoAcessibilidade').ariaLabel = conteudoPtBr[8];
     document.getElementById('botaoFecharAcessibilidade').ariaLabel = conteudoPtBr[9];
